@@ -3,6 +3,7 @@
 Java or Bedrock? why not both of their best features in a modpack with its own direction, vanilla plus ULTIMATE EDITION
 
 OUR LEGACY CURSEFORGE: https://legacy.curseforge.com/minecraft/modpacks/ultimate-edition
+
 OUR CURSEFORGE: https://curseforge.com/minecraft/modpacks/ultimate-edition
 
 ATTENTION ALL USERS:
