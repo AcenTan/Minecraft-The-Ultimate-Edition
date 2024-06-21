@@ -24,264 +24,286 @@ credit to brucethemoose for the java args: [brucethemoose/Minecraft-Performance-
 
 MODLIST:
 
+Fabric API
 
-Accelerated decay
+AppleSkin
 
-Advanced netherite
+Jade 🔍
 
-Ambient Environment
+Entity Culling Fabric/Forge
 
-Apple skin
+ImmediatelyFast
 
-Architectury
+Sound Physics Remastered
 
-Athena
+Not Enough Animations
 
-Authme
+Skin Layers 3D (Fabric/Forge)
 
-Axolotl item fix
+Packet Fixer
 
-Bad Optimizations
-
-Bad packets
-
-Balm
-
-Better f3
-
-Better stats
+Simple Voice Chat
 
 Better Third Person
 
-Boat Break Fix Universal
-
-Bobby
-
-Chalk
-
-Chat Shot
-
-Chat heads
-
-Chunky
-
-Clean view
-
-Client tweaks
-
-Cloth config
-
-Clumps
-
-Collective
-
-Colorful hearts
-
-Configured
-
-Continents
-
-Continuity
-
-Controlify
-
-Customizable player models simple voice chat compat
-
-Crafting tweaks
-
-Craft Presence
-
-Creative Core
-
-Cull leaves
-
-Custom Player Models
-
-Dark loading screen
-
-DEUF Refabricated
-
-Difficulty lock
-
-Dynamic asset generator
-
-Dynamic crosshair
-
-Eating animation
-
-Enhanced block entities
-
-Entity culling
-
-Entity model features
-
-Entity texture features
-
-Essential
-
-Euphoria Patcher
-
-Explorify
-
-Explosive enhancement
-
-Fabric API
-
-Fabric Language Kotlin
-
-Fabricskyboxe
-
-Fabrishot
-
-Falling leaves
-
-Falling Tree
-
-Ferrite core
-
-Forge Config API Port
-
-Fps Reducer
-
-Fabric sky box interop
-
-Geckolib
-
-Gecko Lib Iris Compat
-
-Get it together drops
-
-Glitch Core
-
-Held item info
-
-Immediately Fast
-
-Indium
-
-Inventory hud
-
-Iris
-
-Item Physic
-
-Jade
-
-Journey map
-
-Klee slabs
-
-Konkrete
-
-Language reload
-
-Lan server properties
-
-Lazy language loader
-
-Let me despawn
+Sodium
 
 Lithium
 
-LMFT
+Indium
 
-Melody
+Iris Shaders
 
-Midnight lib
+Cloth Config API
 
-Modern fix
+BetterF3
 
-Mod menu
+FerriteCore
 
-More chat history
+Load My F***ing Tags
+
+FPS Reducer
+
+Essential Mod
+
+Language Reload
+
+bad packets
+
+Server Country Flags
+
+DEUF Refabricated
+
+ServerCore
+
+YetAnotherConfigLib
+
+Controlify
+
+lazy-language-loader
+
+Enhanced Block Entities
+
+FabricSkyboxes
+
+FabricSkyBoxes Interop
+
+More Chat History
+
+Dynamic Crosshair
+
+Auth Me
+
+ChatShot
 
 Mouse Tweaks
 
-Necronomicon
+TipTheScales
 
-NERB
+Text Placeholder API
 
-Nether portal fix
+[ETF] Entity Texture Features
 
-No telemetry
+Continuity
 
-Not enough animations
+TCDCommons API
 
-Packet fixer
+Better Statistics Screen
 
-Philips Ruins
+[EMF] Entity Model Features
 
-Ping Wheel
+Bobby
 
-Text placeholder API
+Dynamic Asset Generator
 
-Presence Footsteps
+Crafting Tweaks
 
-Puzzle
+BadOptimizations
 
-Reeses sodium options
+Iris/Oculus & GeckoLib Compat
 
-Repurposed structures
+Lan Server Properties
+
+Dark Loading Screen
+
+Styled Player List
+
+Styled Chat
+
+Very Many Players (Fabric)
+
+CleanView (Fabric)
+
+SuperBetterGrass
+
+ViaFabric
+
+Fabric Language Kotlin
 
 Resourcify
 
-Roughly Enough Items
+Sodium Shadowy Path Blocks
 
-Serene Seasons
+Geckolib
 
-Server core
+Chat Heads
 
-Server country flags
+Euphoria Patches
 
-Server pinger fixer
+Default Dark Mode
 
-Skin layers 3D
+Konkrete
 
-Smooth Scrolling Refurbished
-
-Sodium
-
-Sodium shadowy path blocks
-
-Sound physics remastered
-
-Sound controller
-
-Spyglass improvements
-
-Stack refill
-
-Structory
-
-Structory Towers
-
-Styled chat
-
-Styled player list
-
-Super Better Grass
-
-Tcd commons API
-
-Tectonic
-
-Terra Blender
+Melody
 
 Terralith
 
-Tip The Scales
+GlitchCore
 
-Via Backwards
+Serene Seasons
 
-Via fabric
+Necronomicon API
+
+Boat Break Fix
+
+Get It Together, Drops!
+
+Let Me Despawn
+
+FallingTree
+
+CraftPresence
+
+Falling Leaves
+
+Not Enough Recipe Book [NERB]
+
+Colorful Hearts
+
+TerraBlender (Fabric)
+
+CreativeCore
+
+ItemPhysic
+
+NetherPortalFix
+
+Spyglass Improvements
+
+Chunky
+
+Fabrishot
+
+Collective
+
+Stack Refill
+
+Accelerated Decay
+
+Clumps
+
+Server Pinger Fixer
+
+Forge Config API Port
+
+Eating Animation
+
+Held Item Info
+
+Customizable Player Models
+
+Customizable Player Models Simple Voice Chat compat
+
+Difficulty Lock
+
+Architectury API
+
+Configured
+
+Reese's Sodium Options
+
+Client Tweaks
+
+Smooth Scrolling Refurbished
+
+3D Default
+
+Alacrity [1.21 update]
+
+Motschen's Better Leaves
+
+Better Animations
+
+Blockstates +
+
+Deep Origins Overlays
+
+Default HD
+
+Emissive TXF
+
+Fast Better Grass
+
+Glowing
+
+Particles +
+
+Round Trees
+
+Simple Grass Flowers
+
+Super Simple 3D Dripstone
+
+Explorify
+
+Philips Ruins
+
+MidnightLib
+
+Repurposed Structures - Quilt/Fabric
+
+Structory
+
+Continents
+
+Structory: Towers
+
+KleeSlabs
+
+Axolotl Bucket Fix
+
+Chalk (Fabric)
+
+Advanced Netherite
 
 Visuality
 
-Very many players
+Tectonic
 
-Simple voice chat
+No Telemetry
 
-Yet Another Config Lib
+Balm
+
+JourneyMap
+
+ModernFix
+
+Athena
+
+Mod Menu
+
+Ambient Environment
+
+Puzzle
+
+Cull Leaves
+
+Ping Wheel
+
+Roughly Enough Items (REI)
+
+Inventory HUD+
+
 
 
 Made by IloveMyWife4Life (Zacexual) Xavier Copeland
