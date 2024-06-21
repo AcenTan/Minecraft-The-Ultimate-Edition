@@ -58,15 +58,15 @@ Bobby
 
 Chalk
 
-ChatShot
+Chat Shot
 
 Chat heads
 
 Chunky
 
-Cleanview
+Clean view
 
-Clienttweaks
+Client tweaks
 
 Cloth config
 
@@ -74,7 +74,7 @@ Clumps
 
 Collective
 
-Colorfulhearts
+Colorful hearts
 
 Configured
 
