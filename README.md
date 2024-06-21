@@ -284,6 +284,7 @@ Yet Another Config Lib
 
 
 Made by IloveMyWife4Life (Zacexual) Xavier Copeland
+
 Co-Curator & Playtester - ILoveMyHusband4Life18881
 
 ![Instance](https://github.com/AcenTan/Ultimate-Edition/assets/157233954/df006986-982e-4a64-b157-3cc46e00de14)
