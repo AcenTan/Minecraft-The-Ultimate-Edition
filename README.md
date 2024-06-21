@@ -10,6 +10,7 @@ ATTENTION ALL USERS:
 
 
 JVM ARGS are REQUIRED for MAXIMUM performance
+
 JAVA 21 Adoptium needed for JVM ARGS: [Latest Releases | Adoptium](https://adoptium.net/temurin/releases/)
 
 
