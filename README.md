@@ -21,6 +21,7 @@ USE THESE ARGS:
 -XX:+UseShenandoahGC -XX:+UnlockExperimentalVMOptions -XX:ShenandoahGCMode=iu -XX:ShenandoahGuaranteedGCInterval=1000000 -XX:AllocatePrefetchStyle=1  -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES
 
 credit to brucethemoose for the java args: [brucethemoose/Minecraft-Performance-Flags-Benchmarks: Sane, Benchmarked Java Flags and Tweaks for Minecraft (github.com)](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks)
+
 MODLIST:
 
 
