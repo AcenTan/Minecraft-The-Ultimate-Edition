@@ -24,264 +24,146 @@ credit to brucethemoose for the java args: [brucethemoose/Minecraft-Performance-
 
 MODLIST:
 
-
-Accelerated decay
-
-Advanced netherite
-
-Ambient Environment
-
-Apple skin
-
-Architectury
-
-Athena
-
-Authme
-
-Axolotl item fix
-
-Bad Optimizations
-
-Bad packets
-
-Balm
-
-Better f3
-
-Better stats
-
-Better Third Person
-
-Boat Break Fix Universal
-
-Bobby
-
-Chalk
-
-Chat Shot
-
-Chat heads
-
-Chunky
-
-Clean view
-
-Client tweaks
-
-Cloth config
-
-Clumps
-
-Collective
-
-Colorful hearts
-
-Configured
-
-Continents
-
-Continuity
-
-Controlify
-
-Customizable player models simple voice chat compat
-
-Crafting tweaks
-
-Craft Presence
-
-Creative Core
-
-Cull leaves
-
-Custom Player Models
-
-Dark loading screen
-
-DEUF Refabricated
-
-Difficulty lock
-
-Dynamic asset generator
-
-Dynamic crosshair
-
-Eating animation
-
-Enhanced block entities
-
-Entity culling
-
-Entity model features
-
-Entity texture features
-
-Essential
-
-Euphoria Patcher
-
-Explorify
-
-Explosive enhancement
-
 Fabric API
-
-Fabric Language Kotlin
-
-Fabricskyboxe
-
-Fabrishot
-
-Falling leaves
-
-Falling Tree
-
-Ferrite core
-
-Forge Config API Port
-
-Fps Reducer
-
-Fabric sky box interop
-
-Geckolib
-
-Gecko Lib Iris Compat
-
-Get it together drops
-
-Glitch Core
-
-Held item info
-
-Immediately Fast
-
-Indium
-
-Inventory hud
-
-Iris
-
-Item Physic
-
-Jade
-
-Journey map
-
-Klee slabs
-
-Konkrete
-
-Language reload
-
-Lan server properties
-
-Lazy language loader
-
-Let me despawn
-
-Lithium
-
-LMFT
-
-Melody
-
-Midnight lib
-
-Modern fix
-
-Mod menu
-
-More chat history
-
-Mouse Tweaks
-
-Necronomicon
-
-NERB
-
-Nether portal fix
-
-No telemetry
-
-Not enough animations
-
-Packet fixer
-
-Philips Ruins
-
-Ping Wheel
-
-Text placeholder API
-
-Presence Footsteps
-
-Puzzle
-
-Reeses sodium options
-
-Repurposed structures
-
-Resourcify
-
-Roughly Enough Items
-
-Serene Seasons
-
-Server core
-
-Server country flags
-
-Server pinger fixer
-
-Skin layers 3D
-
-Smooth Scrolling Refurbished
-
+AppleSkin
+Jade 🔍
+Entity Culling Fabric/Forge
+ImmediatelyFast
+Sound Physics Remastered
+Not Enough Animations
+Skin Layers 3D (Fabric/Forge)
+Packet Fixer
+Simple Voice Chat
+Better Third Person
 Sodium
-
-Sodium shadowy path blocks
-
-Sound physics remastered
-
-Sound controller
-
-Spyglass improvements
-
-Stack refill
-
-Structory
-
-Structory Towers
-
-Styled chat
-
-Styled player list
-
-Super Better Grass
-
-Tcd commons API
-
-Tectonic
-
-Terra Blender
-
+Lithium
+Indium
+Iris Shaders
+Cloth Config API
+BetterF3
+FerriteCore
+Load My F***ing Tags
+FPS Reducer
+Essential Mod
+Language Reload
+bad packets
+Server Country Flags
+DEUF Refabricated
+ServerCore
+YetAnotherConfigLib
+Controlify
+lazy-language-loader
+Enhanced Block Entities
+FabricSkyboxes
+FabricSkyBoxes Interop
+More Chat History
+Dynamic Crosshair
+Auth Me
+ChatShot
+Mouse Tweaks
+TipTheScales
+Text Placeholder API
+[ETF] Entity Texture Features
+Continuity
+TCDCommons API
+Better Statistics Screen
+[EMF] Entity Model Features
+Bobby
+Dynamic Asset Generator
+Crafting Tweaks
+BadOptimizations
+Iris/Oculus & GeckoLib Compat
+Lan Server Properties
+Dark Loading Screen
+Styled Player List
+Styled Chat
+Very Many Players (Fabric)
+CleanView (Fabric)
+SuperBetterGrass
+ViaFabric
+Fabric Language Kotlin
+Resourcify
+Sodium Shadowy Path Blocks
+Geckolib
+Chat Heads
+Euphoria Patches
+Default Dark Mode
+Konkrete
+Melody
 Terralith
-
-Tip The Scales
-
-Via Backwards
-
-Via fabric
-
+GlitchCore
+Serene Seasons
+Necronomicon API
+Boat Break Fix
+Get It Together, Drops!
+Let Me Despawn
+FallingTree
+CraftPresence
+Falling Leaves
+Not Enough Recipe Book [NERB]
+Colorful Hearts
+TerraBlender (Fabric)
+CreativeCore
+ItemPhysic
+NetherPortalFix
+Spyglass Improvements
+Chunky
+Fabrishot
+Collective
+Stack Refill
+Accelerated Decay
+Clumps
+Server Pinger Fixer
+Forge Config API Port
+Eating Animation
+Held Item Info
+Customizable Player Models
+Customizable Player Models Simple Voice Chat compat
+Difficulty Lock
+Architectury API
+Configured
+Reese's Sodium Options
+Client Tweaks
+Smooth Scrolling Refurbished
+3D Default
+Alacrity [1.21 update]
+Motschen's Better Leaves
+Better Animations
+Blockstates +
+Deep Origins Overlays
+Default HD
+Emissive TXF
+Fast Better Grass
+Glowing
+Particles +
+Round Trees
+Simple Grass Flowers
+Super Simple 3D Dripstone
+Explorify
+Philips Ruins
+MidnightLib
+Repurposed Structures - Quilt/Fabric
+Structory
+Continents
+Structory: Towers
+KleeSlabs
+Axolotl Bucket Fix
+Chalk (Fabric)
+Advanced Netherite
 Visuality
-
-Very many players
-
-Simple voice chat
-
-Yet Another Config Lib
+Tectonic
+No Telemetry
+Balm
+JourneyMap
+ModernFix
+Athena
+Mod Menu
+Ambient Environment
+Puzzle
+Cull Leaves
+Ping Wheel
+Roughly Enough Items (REI)
+Inventory HUD+
 
 
 Made by IloveMyWife4Life (Zacexual) Xavier Copeland
