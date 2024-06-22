@@ -22,6 +22,7 @@ This Modpack is a work in progress but it tries to eliminate most bugs that occu
 
  
 
+
 OUR GITHUB: AcenTan/Ultimate-Edition (github.com)
 
  
@@ -30,6 +31,7 @@ OUR ISSUE TRACKER: Issues · AcenTan/Ultimate-Edition (github.com)
 
  
  
+
 
 ATTENTION ALL USERS:
 
